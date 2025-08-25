@@ -11,7 +11,7 @@ Generates and stores passwords securely in a JSON file.
 
 ## 🛠️ Technologies
 - Python 3
-- Modules: `random`, `json`, `os`
+- Modules: `random`, `json`, `os`, `cryptography`, ``
 
 ## ▶️ Run
 ```bash
